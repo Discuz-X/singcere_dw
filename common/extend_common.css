@@ -33,7 +33,7 @@ body { background:{BGCOLOR} {BGCODE};}
 .miniblog a .qq { background:url({STYLEIMGDIR}/qq_logo.png) no-repeat 10px 12px; }
 .miniblog a .sina { background:url({STYLEIMGDIR}/sina_logo.png) no-repeat 10px 12px; }
 .miniblog a .lnk { color:#C50743;  }
-.xs0 { font-size:11px;}
+.xs0 { font-size:9px;}
 /* #subforum-box td.fl_icn img{width:48px;height:48px;} */
 #subforum-box .bm{border:0 none!important;}
 #subforum-box .bm_h{border:0 none!important;height:36px;line-height:36px;background:url({STYLEIMGDIR}/styleskin/{DWBTNIMAGE}) repeat-x 0 -132px;}
